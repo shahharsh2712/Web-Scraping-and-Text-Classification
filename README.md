@@ -1,6 +1,4 @@
-﻿*CAPSTONE PROJECT: SIGAL TEAM ![](Aspose.Words.2626690f-5f33-4540-b55e-268129fd7724.001.png)*
-
-Website Crawler & Text Classification* 
+*Website Crawler & Text Classification* 
 
 *Ash Chetty, Wei Zhu, Po-Chen Su, Harsh Shah, Haochen Wang | University of the Pacific* 
 
