@@ -1,4 +1,4 @@
-# Website Crawler & Text Classification
+# Web Crawler & Text Classification
 
 ## Table of Contents 
 
@@ -20,22 +20,17 @@ Corner Case Handling Status
 ### 9. Subtasks and Challenges in Development
 ### 10. Text Classification Models
 ### 11. Exploratory Data Analysis
-
 *Histogram of Document Lengths	 17*
-
 *Results 	 18*
-
 *BoxPlot 	 18*
-
 *Results 	 19*
-
-12. **Preprocessing Step for All Models 	 19**
-12. **Logistic Regression, Random Forest, XGBoost Preprocessing 	 19**
-1. *Vectorizer 	 19*
-2. *Combining Feature Matrices 	 20*
-2. *Label Encoder 	 20*
-2. *Splitting Dataset into Training and Test Sets 	 20*
-14. **Results 	 22**
+### 12. Preprocessing Step for All Models
+### 13. Logistic Regression, Random Forest, XGBoost Preprocessing
+A. Vectorizer
+B. Combining Feature Matrices
+C. Label Encoder
+D. Splitting Dataset into Training and Test Sets
+### 14. Results
 
 ***Logistic Regression** 	 22*
 
