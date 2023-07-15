@@ -1,36 +1,25 @@
-**Website Crawler & Text Classification** 
+# Website Crawler & Text Classification
 
-Table of Contents 
+## Table of Contents 
 
-1. **Introduction 	 3**
-2. **Website Crawler 	 3**
-3. **Environment 	 3**
-
-*Software & System 	 3*
-
-*Python Package	 4*
-
-4. **Websites Structure Introduction 	 5**
-5. **Map out the Targeting Result	 6**
-
-*Keyword Category & Keywords 	 6*
-
-6. **Process Flow Overview 	 7**
-
-*Traverse 	 8*
-
-7. **Website Traversal and Page Process Core Logic 	 9**
-
-*Website Traversal Logic 	 9*
-
-*Page Process Logic 	 11*
-
-*Corner Case Handling Status 	 13*
-
-8. **Crawling Result 	 14**
-9. **Subtasks and Challenges in Development 	 15**
-10. **Text Classification Models 	 16**
-11. **Exploratory Data Analysis 	 16**
+### 1. Introduction
+### 2. Website Crawler
+### 3. Environment
+Software & System
+Python Package
+### 4. Websites Structure Introduction
+### 5. Map out the Targeting Result
+Keyword Category & Keywords
+### 6. Process Flow Overview
+Traverse
+### 7. Website Traversal and Page Process Core Logic
+Website Traversal Logic
+Page Process Logic
+Corner Case Handling Status
+### 8. Crawling Result
+### 9. Subtasks and Challenges in Development
+### 10. Text Classification Models
+### 11. Exploratory Data Analysis
 
 *Histogram of Document Lengths	 17*
 
