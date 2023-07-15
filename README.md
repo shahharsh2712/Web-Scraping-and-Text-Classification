@@ -1,8 +1,4 @@
-*Website Crawler & Text Classification* 
-
-*Ash Chetty, Wei Zhu, Po-Chen Su, Harsh Shah, Haochen Wang | University of the Pacific* 
-
-21 
+**Website Crawler & Text Classification** 
 
 Table of Contents 
 
